@@ -43,7 +43,7 @@
 ```yaml
 Developer_Profile:
   Name: Nirjak Bhattarai
-  Location: Nepal 🇳🇵
+  Location: Paknajol,Kathmandu,Nepal 🇳🇵
   Role: Full Stack & Machine Learning Developer
   Current_Focus: Building AI-driven content safety systems & web architectures
   Core_Stack: [Spring Boot, React, Python, Supabase, TensorFlow]
