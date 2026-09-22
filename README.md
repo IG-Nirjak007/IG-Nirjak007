@@ -1,82 +1,82 @@
 <div align="center">
 
-  # Hi 👋, I'm Nirjak Bhattarai
-  ### Full Stack Developer & Machine Learning Enthusiast from Nepal 🇳🇵
+  <h1>Hi 👋, I'm Nirjak Bhattarai</h1>
+  <h3>A passionate Full Stack & Machine Learning Developer from Nepal 🇳🇵</h3>
 
-  <p align="center">
+  <p>
     <a href="https://nirjak.com.np" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-nirjak.com.np-00F0FF?style=for-the-badge&logo=googlechrome&logoColor=black" />
+      <img src="https://img.shields.io/badge/Website-nirjak.com.np-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
     </a>
-    <a href="https://linkedin.com" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+    <a href="mailto:nirjakbhattarai1@gmail.com">
+      <img src="https://img.shields.io/badge/Email-nirjakbhattarai1%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
 
-  ---
-
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" alt="Dev Quote" />
-
 </div>
 
-<br/>
+---
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently building full-stack web applications using **Spring Boot**, **React**, and **Supabase**.
-- 🧠 Researching and implementing ML models in **Python & TensorFlow** for intelligent safety systems.
-- ⚡ **Fun fact:** I write clean backend APIs and turn complex ideas into seamless user experiences.
+* 🚀 **Specialization:** Building scalable full-stack applications with **Spring Boot**, **React**, and **Python**.
+* 🛡️ **Current Focus:** AI-driven content safety systems and full-stack web architectures.
+* 🎓 **Education:** Software Engineering / Machine Learning.
+* 💬 **Ask me about:** Java, Spring Boot, React, Tailwind CSS, TensorFlow, and Supabase.
+* 📫 **How to reach me:** [nirjakbhattarai1@gmail.com](mailto:nirjakbhattarai1@gmail.com)
 
 ---
 
-### 🛠️ Languages & Technologies
+### 🛠️ Languages and Tools
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+</div>
+
+---
+
+### 📊 GitHub Statistics
 
 <div align="center">
-
-| Domain | Tech Stack |
-| :--- | :--- |
-| **Languages** | `Java` `Python` `JavaScript` `HTML5` `CSS3` `SQL` |
-| **Frontend** | `React` `Vite` `TailwindCSS` `Bootstrap` |
-| **Backend & DB** | `Spring Boot` `Flask` `REST APIs` `PostgreSQL` `Supabase` |
-| **ML & Tools** | `TensorFlow` `Git` `Docker` `Vercel` `Render` |
+  <img src="https://github-readme-stats.vercel.app/api?username=iG-Nirjak007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Nirjak's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iG-Nirjak007&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="48%" />
+</div>
 
 <br/>
 
-<!-- Shields Badges -->
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
-
-</div>
-
----
-
-### 📊 GitHub Analytics
-
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=IG-Nirjak007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IG-Nirjak007&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-
-  <br/><br/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IG-Nirjak007&theme=tokyonight&hide_border=true" width="98%" />
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iG-Nirjak007&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </div>
 
 ---
 
-### 📬 Connect With Me
+### 🌐 Connect with Me
 
 <p align="center">
-  <a href="mailto:nirjakbhattarai1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://nirjak.com.np" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-nirjak.com.np-blue?style=flat-square&logo=react" alt="Portfolio"/>
   </a>
-  <a href="https://nirjak.com.np">
-    <img src="https://img.shields.io/badge/Website-nirjak.com.np-412991?style=for-the-badge&logo=firefox" />
+  &nbsp;
+  <a href="mailto:nirjakbhattarai1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-nirjakbhattarai1%40gmail.com-red?style=flat-square&logo=gmail" alt="Email"/>
   </a>
 </p>
